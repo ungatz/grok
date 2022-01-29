@@ -1,0 +1,16 @@
+#+TITLE: Grok
+* Memory
+- How are data structures stored?
+  As arrays or linked lists.
+* Data Structures
+- Traversal and access is what its all about.
+** Arrays
+- Continuous storage, which can be accessed randomly
+- Easy access.
+- Hard deletion (resize) and expansion.
+** Linked Lists
+- Non Contiguous in memory, linked by pointers.
+- Easy deletion and expansion.
+- Hard access.
+* Algorithms
+- Data structure and logic is what this is all about.

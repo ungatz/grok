@@ -1,0 +1,6 @@
+itsy-bitsy-ds.js
+.log/
+.DS_Store
+node_modules
+test_data/
+package.json.swp
